@@ -1,15 +1,22 @@
-## 42 Abu Dhabi Piscine - July 2025: Questions & Answers
+# My Journey Through the 42 Abu Dhabi Piscine - July 2025
 
-This repository is a community-driven collection of questions, solutions, and helpful resources for the 42 Abu Dhabi Piscine taking place in July 2025. The goal is to provide a collaborative space for `pisciners` to understand the types of challenges they might encounter and to learn from each other.
+Welcome! This repository documents my personal progress, thought processes, and code from the 42 Abu Dhabi Piscine in July 2025. The aim is to create a transparent log of my learning journey, not just a collection of final answers.
 
-### This repository will contain:
+This space is for anyone who wants to understand the *how* and *why* behind the solutions, not just the *what*.
 
-* **Daily Exercises:** Solutions and explanations for the daily assignments.
-* **Rushes:** Collaborative project solutions and strategies.
-* **Exams:** Practice problems and mock exam questions to prepare for the weekly exams.
-* **Shell Scripts:** Useful scripts and command-line tips.
-* **C Programming:** Code snippets and explanations of core C language concepts covered in the Piscine.
+### What You'll Find Inside:
 
-### Disclaimer
+* **Projects & Daily Work:** My attempts and finalized versions for the Shell and C language projects. The code is commented to explain the logic and learning points.
+* **Personal Notes:** Key concepts, useful commands, and personal reflections on the challenges encountered during the daily exercises, rushes, and exam preparations.
+* **Resource Hub:** A curated list of helpful tutorials, articles, and tools that I found useful for understanding core concepts in C and the command line.
 
-The solutions provided in this repository are for educational and reference purposes only. It is highly recommended that you attempt to solve all problems on your own first. The core philosophy of the 42 Piscine is to learn through struggle and perseverance. Use these resources to guide you when you are truly stuck or to review and compare your own solutions.
+### A Note on the 42 Honor Code
+
+The solutions and notes here represent my own work and understanding. They are intended for educational and inspirational purposes. The core of the 42 philosophy is **learning to learn through struggle and collaboration.**
+
+**Please do not simply copy and paste this code.** Doing so will violate the spirit of the Piscine and the rules of 42. I strongly encourage you to:
+1.  **Try every problem yourself first.**
+2.  Use these notes to understand a different approach if you are stuck.
+3.  Compare your final, working solution with mine to discover new techniques.
+
+Good luck to all fellow pisciners! Let's conquer the Piscine together.
