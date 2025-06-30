@@ -89,7 +89,7 @@ Secure Shell (SSH) keys are used for secure authentication.
 
 * **Generate a new SSH key:**
     ```bash
-    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+    ssh-keygen
     ```
 * **View your public key:**
     *  This is the key you add to services like GitHub to grant access. 
